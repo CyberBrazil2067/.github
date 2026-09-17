@@ -1,2 +1,2 @@
-# .github
-CyberBrazil2067
+# CyberBrazil2067
+Repositório especial para perfil público.
